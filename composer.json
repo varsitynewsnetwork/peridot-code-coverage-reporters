@@ -14,7 +14,7 @@
   ],
   "require": {
     "peridot-php/peridot": "^1",
-    "phpunit/php-code-coverage": "^4|^5"
+    "phpunit/php-code-coverage": "^6|^7"
   },
   "autoload": {
     "psr-4": {
